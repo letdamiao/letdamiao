@@ -4,6 +4,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=letdamiao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letdamiao&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<i class="devicon-adonisjs-original "></i>
-<i class="devicon-adonisjs-original "></i>
-
+  
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+            <i class="devicon-adonisjs-original "></i>
+          <i class="devicon-adonisjs-original "></i>
