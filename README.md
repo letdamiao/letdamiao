@@ -5,6 +5,9 @@
   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letdamiao&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-            <i class="devicon-adonisjs-original "></i>
-          <i class="devicon-adonisjs-original "></i>
+</div>
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-HTML" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
